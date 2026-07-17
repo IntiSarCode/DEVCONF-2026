@@ -1,0 +1,135 @@
+.SYS{
+    margin-top:200px;
+    margin-left:765px;
+    font-size:50px;
+}
+.discrip-SYS{
+    color:rgb(94, 94, 94);
+    margin-left:820px;
+    margin-top:-20px;
+    margin-bottom:70px;
+
+}
+
+
+.std{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+    margin-left:270px;
+    background-color:white;
+    border: 1px solid #bbbbbb;
+    border-radius:15px;
+    width:400px;
+    height:450px;
+
+}
+.std-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:15px;
+    color:rgb(100, 100, 100);
+    padding:8px;
+    margin-bottom:45px;
+}
+.std-h4{
+    color:rgb(173, 173, 173);
+    font-size:12px;
+    margin-bottom:-25px;
+}
+.money{
+    font-size:45px;
+    margin-bottom:-15px;
+}
+.per{
+    color:rgb(173, 173, 173);
+    
+}
+.std-btn{
+    color:rgb(255, 255, 255);
+    background-color:rgb(50, 115, 255);
+    border:1px solid #bbbbbb;
+    border-radius:8px;
+    margin-left:29px;
+    padding:5px 80px 5px 80px;
+}
+.std-btn:hover{
+    background-color:rgb(28, 96, 245);
+}
+
+.pro{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-left: 710px;
+        margin-top:-450px;
+        background-color: rgb(23, 38, 80);
+        border: 1px solid #bbbbbb;
+        border-radius: 15px;
+        width: 400px;
+        height: 450px;
+}
+.money-2{
+    font-size: 45px;
+    margin-bottom: -15px;
+    color:white;
+
+}
+.pro-h4{
+    color: rgb(130, 175, 241);
+        font-size: 12px;
+        margin-bottom: -25px;
+}
+.pro-list{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 15px;
+        color: rgb(212, 210, 210);
+        padding: 8px;
+        margin-bottom: 45px;
+}
+.pro-btn{
+    color: rgb(255, 255, 255);
+        background-color: rgb(50, 115, 255);
+        border: 1px solid #bbbbbb;
+        border-radius: 8px;
+        margin-left: 40px;
+        padding: 5px 90px 5px 90px;
+        transition: 0.3s;
+        cursor: pointer;
+        box-shadow: 0 0 20px #2563eb;
+}
+.pro-btn:hover{
+    background-color: rgb(28, 96, 245);
+}
+
+
+.team{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-left: 1150px;
+        margin-top:-450px;
+        background-color: rgb(247, 247, 247);
+        border: 1px solid #bbbbbb;
+        border-radius: 15px;
+        width: 400px;
+        height: 450px;
+}
+.team-btn{
+        color: rgb(255, 255, 255);
+        background-color: rgb(50, 115, 255);
+        border: 1px solid #bbbbbb;
+        border-radius: 8px;
+        margin-left: 39px;
+        padding: 5px 80px 5px 80px;
+    
+}
+.team-btn:hover{
+    background-color: rgb(28, 96, 245);
+}
